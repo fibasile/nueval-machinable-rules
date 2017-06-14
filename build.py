@@ -22,10 +22,10 @@ def makeTask(task):
     print >>taskMD, task['description']
     print >>taskMD, '### Learning outcomes\n'
     for o in task['outcomes']:
-        print >>taskMD, o
-    print >>taskMD, '### Have you?\n'
+        print >>taskMD, '* %s' % o
+    print >>taskMD, '\n### Have you?\n'
     for c in task['checklist']:
-        print >>taskMD, c
+        print >>taskMD, '* %s' % c
     return taskMD.getvalue()
 
 def makeBookPage(data):
