@@ -1,42 +1,51 @@
-import sys, traceback
-import yaml
+"""Build script for machine-friendly eval rules"""
+
+import sys
+import traceback
 import os
 import json
 from cStringIO import StringIO
+import codecs
 import glob
+import yaml
 SOURCE_DIR = os.path.join(os.getcwd(), 'src')
+JSON_DIR = os.path.join(os.getcwd(), 'json')
+GITBOOK_DIR = os.path.join(os.getcwd(), 'gitbook')
 SOURCE_FILES = glob.glob(os.path.join(SOURCE_DIR, '*.yaml'))
 
 
-def readYAML(source):
-    print 'Reading %s' % source
-    f = open(source, 'r')
-    data = yaml.load(f.read())
-    f.close()
-    return data
+def read_yaml(yaml_src):
+    """ Read a yamls file """
+    print 'Reading %s' % yaml_src
+    yaml_file = open(yaml_src, 'r')
+    yaml_data = yaml.load(yaml_file.read())
+    yaml_file.close()
+    return yaml_data
 
 
-def makeTask(task):
-    taskMD = StringIO()
-    print >> taskMD, '## %s\n' % task['name']
-    print >> taskMD, task['description']
-    print >> taskMD, '### Learning outcomes\n'
-    for o in task['outcomes']:
-        print >> taskMD, '* %s' % o
-    print >> taskMD, '\n### Have you?\n'
-    for c in task['checklist']:
-        print >> taskMD, '* %s' % c
-    return taskMD.getvalue()
+def make_task(task):
+    """ Create a Markdown fragment for a task """
+    task_md = StringIO()
+    print >> task_md, '## %s\n' % task['name']
+    print >> task_md, task['description']
+    print >> task_md, '### Learning outcomes\n'
+    for task_outcome in task['outcomes']:
+        print >> task_md, '* %s' % task_outcome
+    print >> task_md, '\n### Have you?\n'
+    for task_checklist in task['checklist']:
+        print >> task_md, '* %s' % task_checklist
+    return task_md.getvalue()
 
 
-def makeBookPage(data):
-    md = StringIO()
-    print >> md, '# %s\n' % data['unit']
-    for task in data['tasks']:
-        print >> md, makeTask(task)
-    print >> md, '## FAQ\n'
-    print >> md, data['faq']
-    return md.getvalue()
+def make_book_page(unit_data):
+    """ Create a Markdown version of a unit """
+    md_buffer = StringIO()
+    print >> md_buffer, '# %s\n' % unit_data['unit']
+    for task in unit_data['tasks']:
+        print >> md_buffer, make_task(task)
+    print >> md_buffer, '## FAQ\n'
+    print >> md_buffer, unit_data['faq']
+    return md_buffer.getvalue()
 
 
 if __name__ == '__main__':
@@ -47,25 +56,34 @@ if __name__ == '__main__':
         print '   json: Export rules to nueval-app json'
         print '   gitbook: Build markdown pages from YAML source\n\n'
         sys.exit(-1)
-    command = sys.argv[1]
-
+    BUILD_CMD = sys.argv[1]
     for source in SOURCE_FILES:
-        if command == 'test':
+        if BUILD_CMD == 'test':
             try:
-                data = readYAML(source)
+                read_yaml(source)
                 print 'Syntax OK'
             except Exception, ex:
                 print 'Syntax Error'
-                print ex
-        elif command == 'json':
+                traceback.print_exc()
+        elif BUILD_CMD == 'json':
+            if not os.path.exists(JSON_DIR):
+                os.makedirs(JSON_DIR)
             try:
-                data = readYAML(source)
-                print json.dumps(data, indent=4)
-            except Exception:
+                data = read_yaml(source)
+                jsonFile = os.path.basename(source).replace('.yaml', '.json')
+                jsonData = json.dumps(data, indent=4)
+                tmp_file = codecs.open(
+                    os.path.join(JSON_DIR, jsonFile), 'w', 'utf-8')
+                tmp_file.write(jsonData)
+                tmp_file.close()
+            except Exception, ex:
                 print 'Syntax Error'
-        elif command == 'gitbook':
+                traceback.print_exc()
+        elif BUILD_CMD == 'gitbook':
+            if not os.path.exists(GITBOOK_DIR):
+                os.makedirs(GITBOOK_DIR)
             try:
-                data = readYAML(source)
-                print makeBookPage(data)
+                data = read_yaml(source)
+                print make_book_page(data)
             except Exception, ex:
                 traceback.print_exc()

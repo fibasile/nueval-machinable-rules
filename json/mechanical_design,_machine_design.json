@@ -1,0 +1,30 @@
+{
+    "faq": "### Does we have to design new boards for this?\n> Answers:\n1. No. You can use the gestalt or other existing commercial boards.", 
+    "tasks": [
+        {
+            "description": "Make a [machine](http://mtm.cba.mit.edu/machines/science), including the end effector, build the passive parts and operate it manually.\n", 
+            "name": "Mechanical Design", 
+            "outcomes": null
+        }, 
+        {
+            "checklist": [
+                "Explained your individual contribution to this project on your own website", 
+                "Shown how your team planned and executed the project (Group page)", 
+                "Described problems and how the team solved them (Group page)", 
+                "Listed future development opportunities for this project (Group page)", 
+                "Included your design files, 1 min video (1920x1080 HTML5 MP4) + slide (1920x1080 PNG) (Group page)"
+            ], 
+            "description": "Automate your [machine](http://academy.cba.mit.edu/classes/mechanical_design/index.html). Document the group project and your individual contribution.\n", 
+            "name": "Machine Design", 
+            "outcomes": [
+                "Work and communicate effectively in a team and independently", 
+                "Design, plan and build a system", 
+                "Analyse and solve technical problems", 
+                "Recognise opportunities for improvements in the design"
+            ]
+        }
+    ], 
+    "version": 2017, 
+    "unit": "Mechanical Design, Machine Design", 
+    "unit_id": "3d_scanning_and_printing"
+}

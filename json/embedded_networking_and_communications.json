@@ -1,0 +1,22 @@
+{
+    "faq": "### Can we use arduino/commercial boards for networking?\n> Answer:\n1. It depends on the case: you can use commercial boards for wireless devices. But you can\u2019t use Arduino or similar commercial microcontroller boards because they can be made in the fab lab. For this week, you can use the original satcha-kit/fab-kit/fabduino.\n\n### Must each board have a unique identity?\n> Answer:\n1. It does not have to be hard-coded but you must use some form of addressing.\n", 
+    "tasks": [
+        {
+            "checklist": [
+                "Described your design and fabrication process using words/images/screenshots.", 
+                "Explained the programming process/es you used.", 
+                "Outlined problems and how you fixed them", 
+                "Included original design files and code"
+            ], 
+            "description": "* Test the design rules for your printer(s) (group project)\n* Design and 3D print an object (small, few cm) that could not be made subtractively\n* 3D scan an object (and optionally print it)\n", 
+            "name": "Embedded Networking and Communications", 
+            "outcomes": [
+                "Demonstrate workflows used in network design and construction", 
+                "Implement and interpret networking protocols"
+            ]
+        }
+    ], 
+    "version": 2017, 
+    "unit": "Embedded Networking and Communications", 
+    "unit_id": "embedded_networking_and_communications.md"
+}

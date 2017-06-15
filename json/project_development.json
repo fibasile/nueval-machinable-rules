@@ -1,0 +1,26 @@
+{
+    "faq": "None yet", 
+    "tasks": [
+        {
+            "checklist": [
+                "what is the deadline? How much time do I have left?", 
+                "what tasks have been completed, and what tasks remain?", 
+                "how will I complete the remaining tasks in time?", 
+                "what has worked?", 
+                "what hasn't?", 
+                "what questions still need to be resolved?", 
+                "what have you learned?"
+            ], 
+            "description": "Complete your final project. Track and document your progress. \n", 
+            "name": "Project Development", 
+            "outcomes": [
+                "Evaluate project plan", 
+                "Apply time management techniques", 
+                "Summarise and communicate the essence of a project"
+            ]
+        }
+    ], 
+    "version": 2017, 
+    "unit": "Project Development", 
+    "unit_id": "project_development"
+}

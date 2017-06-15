@@ -1,0 +1,23 @@
+{
+    "faq": "### Define \u2018cannot be made subtractively\u2019\n> Answer:\n1. That cannot be fabricated with 3 axis limitations OR even if it\u2019s possible to make it, it is too complicated.", 
+    "tasks": [
+        {
+            "checklist": [
+                "Described what you learned by testing the 3D printers", 
+                "Shown how you designed and made your object and explained why it could not be made subtractively", 
+                "Scanned an object", 
+                "Outlined problems and how you fixed them", 
+                "Included your design files and \u2018hero shot\u2019 photos of the scan and the final object"
+            ], 
+            "description": "* Test the design rules for your printer(s) (group project)\n* Design and 3D print an object (small, few cm) that could not be made subtractively\n* 3D scan an object (and optionally print it)\n", 
+            "name": "3D Scanning and Printing", 
+            "outcomes": [
+                "Identify the advantages and limitations of 3D printing and scanning technology", 
+                "Apply design methods and production processes to show your understanding."
+            ]
+        }
+    ], 
+    "version": 2017, 
+    "unit": "3D Scanning and Printing", 
+    "unit_id": "3d_scanning_and_printing"
+}

@@ -1,0 +1,22 @@
+{
+    "faq": "### Should I read the MSDS and TDS this week?\n> Answer:\n1. It is always a good idea to read these documents.\n\n### I want to only make a wax mould, and cast something in it - is that acceptable?\n> Answer:\n1. Learn and go through the 3 step process first . To break the rules you have to master the rules.\n", 
+    "tasks": [
+        {
+            "checklist": [
+                "Explained how you made your files for machining", 
+                "Shown how you made your mould and cast the parts", 
+                "Described problems and how you fixed them", 
+                "Included your design files and \u2018hero shot\u2019 photos of the mould and the final object"
+            ], 
+            "description": "* Design a 3D mould, machine it, and cast parts from it.\n", 
+            "name": "Moulding and Casting", 
+            "outcomes": [
+                "Design appropriate objects within the limitations of 3 axis machining", 
+                "Demonstrate workflows used in mould design, construction and casting"
+            ]
+        }
+    ], 
+    "version": 2017, 
+    "unit": "Moulding and Casting", 
+    "unit_id": "moulding_and_casting"
+}

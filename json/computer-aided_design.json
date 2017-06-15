@@ -1,0 +1,21 @@
+{
+    "faq": "### Is it compulsory to do parametric design this week?\n> Answer:\n1. No, but it is next week. So it is a good idea to start learning now.\n", 
+    "tasks": [
+        {
+            "checklist": [
+                "Modelled experimental objects/part of a possible project in 2D and 3D software", 
+                "Shown how you did it with words/images/screenshots", 
+                "Included your original design files"
+            ], 
+            "description": "* Model (draw, render, animate, simulate, ...) a possible [final project](http://fab.cba.mit.edu/classes/863.14/people/), \n  and post it on your class page with original 2D and 3D files.\n> Don't rely on a printed document. Check the information for each assignment in this living document each week.\n", 
+            "name": "Computer-Aided Design", 
+            "outcomes": [
+                "Evaluate and select 2D and 3D software", 
+                "Demonstrate and describe processes used in modelling with 2D and 3D software"
+            ]
+        }
+    ], 
+    "version": 2017, 
+    "unit": "Computer-Aided Design", 
+    "unit_id": "3d_scanning_and_printing"
+}

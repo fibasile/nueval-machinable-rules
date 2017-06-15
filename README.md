@@ -23,20 +23,25 @@ Take a look to the provided .yaml for a full example
 
 ## Build.py
 
-This script takes an (hardcoded) list of yaml files and can:
+This script takes all the yaml files in src/ and can:
 
 **Test them for correctness**
 
    python build.py test
 
+This will simply check syntax and exit without errors if it's correct
+
 **Convert them to Markdown**
 
    python build.py gitbook
+
+This will generate a `gitbook` folder containing the Markdown formatted files.
 
 **Convert them to JSON**
 
    python build.py json
 
+This will generate a `json` folder containing the JSON formatted files.
 
 ## Try it yourself
 
