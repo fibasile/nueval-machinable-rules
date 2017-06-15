@@ -1,5 +1,8 @@
 """Build script for machine-friendly eval rules"""
+import sys  
 
+reload(sys)
+sys.setdefaultencoding('utf8')
 import sys
 import traceback
 import os
@@ -14,6 +17,13 @@ GITBOOK_DIR = os.path.join(os.getcwd(), 'gitbook')
 SOURCE_FILES = glob.glob(os.path.join(SOURCE_DIR, '*.yaml'))
 
 
+def UTFWriter():
+    buffer = StringIO()
+    wrapper = codecs.getwriter("utf8")(buffer)
+    wrapper.buffer = buffer
+    return wrapper
+
+
 def read_yaml(yaml_src):
     """ Read a yamls file """
     print 'Reading %s' % yaml_src
@@ -25,7 +35,7 @@ def read_yaml(yaml_src):
 
 def make_task(task):
     """ Create a Markdown fragment for a task """
-    task_md = StringIO()
+    task_md = UTFWriter()
     print >> task_md, '## %s\n' % task['name']
     print >> task_md, task['description']
     print >> task_md, '### Learning outcomes\n'
@@ -34,18 +44,18 @@ def make_task(task):
     print >> task_md, '\n### Have you?\n'
     for task_checklist in task['checklist']:
         print >> task_md, '* %s' % task_checklist
-    return task_md.getvalue()
+    return task_md.buffer.getvalue()
 
 
 def make_book_page(unit_data):
     """ Create a Markdown version of a unit """
-    md_buffer = StringIO()
+    md_buffer = UTFWriter()
     print >> md_buffer, '# %s\n' % unit_data['unit']
     for task in unit_data['tasks']:
         print >> md_buffer, make_task(task)
     print >> md_buffer, '## FAQ\n'
     print >> md_buffer, unit_data['faq']
-    return md_buffer.getvalue()
+    return md_buffer.buffer.getvalue()
 
 
 if __name__ == '__main__':
@@ -73,7 +83,7 @@ if __name__ == '__main__':
                 jsonFile = os.path.basename(source).replace('.yaml', '.json')
                 jsonData = json.dumps(data, indent=4)
                 tmp_file = codecs.open(
-                    os.path.join(JSON_DIR, jsonFile), 'w', 'utf-8')
+                    os.path.join(JSON_DIR, jsonFile), 'w', encoding='utf-8')
                 tmp_file.write(jsonData)
                 tmp_file.close()
             except Exception, ex:
@@ -84,6 +94,11 @@ if __name__ == '__main__':
                 os.makedirs(GITBOOK_DIR)
             try:
                 data = read_yaml(source)
-                print make_book_page(data)
+                md_file = os.path.basename(source).replace('.yaml', '.md')
+                md_data = make_book_page(data)
+                tmp_file = codecs.open(
+                    os.path.join(GITBOOK_DIR, md_file), 'w', encoding='utf-8')
+                tmp_file.write(md_data)
+                tmp_file.close()
             except Exception, ex:
                 traceback.print_exc()
