@@ -15,12 +15,12 @@ tasks:
   - what materials and components will be required?
   - where will they come from?
   - how much will it cost?
-  * what parts and systems will be made?
-  * what processes will be used?
-  * what tasks need to be completed?
-  * what questions need to be answered?
-  * what is the schedule?
-  * how will it be evaluated?
+  - what parts and systems will be made?
+  - what processes will be used?
+  - what tasks need to be completed?
+  - what questions need to be answered?
+  - what is the schedule?
+  - how will it be evaluated?
 faq: |
   ### Define ‘cannot be made subtractively’
   > Answer:
