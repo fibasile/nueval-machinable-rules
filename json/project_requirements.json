@@ -1,0 +1,26 @@
+{
+    "faq": "### Can I just design a shield for a commercial board in my final project?\n> Answer:\n1. No. Please check the final project requirements above.\n\n### Can I use the satshakit/fabduino for my final project?\n> Answer:\n1. You have to design your own board(s).\n2. You can use it to program your own input/output devices. Fabricating an unmodified board is considered as electronics production but does not count towards any design skill.\n\n### My final projects electronics is a tangle of wires but it works. So I guess this is it.\n> Answer:\n1. No. Your final project must show integration of the skills beyond early stage prototyping. That includes arranging the wiring, use of connectors, etc.\n\n### How do we present a Group Project?\n> Answer:\n1. Each student will make a specific slide that shows it's a group project (names the project and the other collaborator/s) and details the parts developed by the individual\n2. Each student will make a specific video that will have some shared content, but mainly shows the parts developed by the individual\n \n  \n", 
+    "tasks": [
+        {
+            "checklist": [
+                "Created slide 1280 x 1024 pixels named presentation.png", 
+                "Slide has your name", 
+                "Slide has the name of your project", 
+                "Slide has the name of the Fab Lab", 
+                "Slide has a photo/render/sketch of your project", 
+                "Slide contains a brief description of what your project is/does", 
+                "Made a ~1 minute (10MB/1080p/720p) video of you explaining your project"
+            ], 
+            "description": "Congratulations, you have now reached the point of working on your Final Project. The following weeks are an opportunity to demonstrate your mastery of the skills you have developed in the previous weeks. Your goal is to keep it as affordable as possible. Design and fabricate your own parts instead of buying off-the-shelf components. Your project must:\n\n* be your own design\n* include a fabbed input device and an output device of your own design\n* include other components made with additive and subtractive techniques\n* include 2D and 3D design elements\n\nDevelopment of a group final project: Each student in the group must prove mastery of the skills gained during the program, as above.\n", 
+            "name": "Final Project", 
+            "outcomes": [
+                "Create a Final project page that documents your project", 
+                "Create a Final project slide that showcases your project", 
+                "Create a Final project video that shows how your project is working"
+            ]
+        }
+    ], 
+    "version": 2017, 
+    "unit": "Final Project", 
+    "unit_id": "project_requirements"
+}
