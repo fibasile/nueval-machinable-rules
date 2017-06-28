@@ -8,7 +8,7 @@
                 "Outlined problems and how you fixed them", 
                 "Included original design files and code"
             ], 
-            "description": "* Test the design rules for your printer(s) (group project)\n* Design and 3D print an object (small, few cm) that could not be made subtractively\n* 3D scan an object (and optionally print it)\n", 
+            "description": "Design and build a wired &/or wireless network connecting at least two processors\n", 
             "name": "Embedded Networking and Communications", 
             "outcomes": [
                 "Demonstrate workflows used in network design and construction", 

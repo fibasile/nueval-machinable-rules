@@ -26,6 +26,5 @@ Propose a final project that integrates the range of units covered.
 
 ## FAQ
 
-### Define ‘cannot be made subtractively’
-> Answer:
-1. That cannot be fabricated with 3 axis limitations OR even if it’s possible to make it, it is too complicated.
+No FAQ available yet
+

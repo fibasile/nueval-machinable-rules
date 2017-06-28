@@ -2,9 +2,7 @@
 
 ## Embedded Networking and Communications
 
-* Test the design rules for your printer(s) (group project)
-* Design and 3D print an object (small, few cm) that could not be made subtractively
-* 3D scan an object (and optionally print it)
+Design and build a wired &/or wireless network connecting at least two processors
 
 ### Learning outcomes
 
