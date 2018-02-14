@@ -17,6 +17,5 @@ Write an application that interfaces with an [input](http://academy.cba.mit.edu/
 
 ## FAQ
 
-### Define ‘cannot be made subtractively’
-> Answer:
-1. That cannot be fabricated with 3 axis limitations OR even if it’s possible to make it, it is too complicated.
+None yet
+
