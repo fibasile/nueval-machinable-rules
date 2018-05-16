@@ -18,6 +18,7 @@
 * Programmed your board
 * Described the programming process/es you used
 * Included your code
+* Compared the performance and development workflows for other architectures
 
 ## FAQ
 

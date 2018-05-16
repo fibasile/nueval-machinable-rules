@@ -15,6 +15,7 @@ Add an output device to a microcontroller board you've designed and program it t
 * Explained the programming process/es you used and how the microcontroller datasheet helped you.
 * Outlined problems and how you fixed them
 * Included original design files and code
+* Measured the power consumption of an output device
 
 ## FAQ
 

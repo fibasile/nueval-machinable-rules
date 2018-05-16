@@ -1,6 +1,6 @@
 unit: Moulding and Casting
 unit_id: moulding_and_casting
-version: 2017
+version: 2018
 tasks:
 - name: Moulding and Casting
   description: |
@@ -13,6 +13,7 @@ tasks:
   - Shown how you made your mould and cast the parts
   - Described problems and how you fixed them
   - Included your design files and ‘hero shot’ photos of the mould and the final object
+  - Reviewed the safety data sheets for each of your molding and casting materials, then made and compared test casts with each of them
 faq: |
   ### Should I read the MSDS and TDS this week?
   > Answer:

@@ -1,5 +1,5 @@
 {
-    "faq": "### Can I use the Inkscape clone tool for my pressfit kit?\n> Answer:\n1. No. The clone tool is not a real parametric software.\n\n### Is it compulsory to design my own file in Vinyl cutting?\n> Answer:\n1. Yes. Or modify existing one, and acknowledge where you found it.", 
+    "faq": "### What does 'characterise' mean?\n> Answer: \n1. describe/understand the nature and features (of your particular laser cutter)\n\n### Can I use the Inkscape clone tool for my pressfit kit?\n> Answer:\n1. No. The clone tool is not a real parametric software.\n\n### Is it compulsory to design my own file in Vinyl cutting?\n> Answer:\n1. Yes. Or modify existing one, and acknowledge where you found it.", 
     "tasks": [
         {
             "checklist": [
@@ -7,7 +7,7 @@
                 "Shown how you made your press-fit kit", 
                 "Included your design files and photos of your finished project"
             ], 
-            "description": "* make lasercutter test part(s), varying slot dimensions using parametric functions, testing your laser kerf & cutting settings (group project)\n* cut something on the vinylcutter\n* design, make, and document a parametric press-fit construction kit, accounting for the lasercutter kerf, which can be assembled in multiple ways\n", 
+            "description": "* make lasercutter test part(s), varying slot dimensions using parametric functions, testing your laser kerf & cutting settings (group project)\n* cut something on the vinylcutter (individual)\n* design, make, and document a parametric press-fit construction kit, accounting for the lasercutter kerf, which can be assembled in multiple ways (individual)\n", 
             "name": "Laser Cutting", 
             "outcomes": [
                 "Demonstrate and describe parametric 2D modelling processes", 
@@ -29,7 +29,7 @@
             ]
         }
     ], 
-    "version": 2017, 
+    "version": 2018, 
     "unit": "Computer-Controlled Cutting", 
     "unit_id": "computer_controlled_cutting"
 }

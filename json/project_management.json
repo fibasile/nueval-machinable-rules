@@ -1,0 +1,22 @@
+{
+    "faq": "### Is it OK to use someone else\u2019s template to create my website?\n> Answer:\n1. Yes - acknowledge other people\u2019s work. Show you understand how the template works by describing/changing parts of it.\n\n### Can I store photos and files off the archive?\n> Answer:\n1. No. Photos should be resized and compressed and stored in the archive. See the General Essentials section of the Assessment Doc.\n2. The Global Evaluation team should be able to pull and then assess your work offline.\n\n### What size should my website be?\n> Answer:\n1. In the order of tens of megabytes. Read the General Essentials, compress, resize, etc.", 
+    "tasks": [
+        {
+            "checklist": [
+                "made a website and described how you did it", 
+                "introduced yourself", 
+                "documented steps for uploading files to archive", 
+                "pushed to the class archive"
+            ], 
+            "description": "*  Build a personal site describing you and your final project.\n* Upload it to the class archive. Work through a git tutorial.\n", 
+            "name": "Project Management", 
+            "outcomes": [
+                "Explore and use website development tools", 
+                "Identify and utilise version control protocols"
+            ]
+        }
+    ], 
+    "version": 2018, 
+    "unit": "Project Management", 
+    "unit_id": "project_management"
+}

@@ -5,7 +5,8 @@
             "checklist": [
                 "Shown how you made and programmed the board", 
                 "Explained any problems and how you fixed them", 
-                "Included a \u2018hero shot\u2019 of your board"
+                "Included a \u2018hero shot\u2019 of your board", 
+                "Characterised the specifications of your PCB production process"
             ], 
             "description": "> As outlined in the Commercial Boards policy, fabbing your own boards is an important part of Fab Academy. The 'fabbest' way to do this, is by milling your FR1 boards via Fab Modules or Mods.\n* Make an in-circuit programmer by milling the PCB (program it, so that you can use it to program your board in Electronics Design week, and in other weeks)\n* Optionally, trying other processes.\n", 
             "name": "Electronics Production", 
@@ -15,7 +16,7 @@
             ]
         }
     ], 
-    "version": 2017, 
+    "version": 2018, 
     "unit": "Electronics Production", 
     "unit_id": "electronics_production"
 }

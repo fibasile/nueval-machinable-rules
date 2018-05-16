@@ -16,6 +16,7 @@ Measure something: add a sensor to a microcontroller board that you have designe
 * Explained the programming process/es you used and how the microcontroller datasheet helped you.
 * Explained problems and how you fixed them
 * Included original design files and code
+* Measured the analog levels and digital signals in an input device
 
 ## FAQ
 

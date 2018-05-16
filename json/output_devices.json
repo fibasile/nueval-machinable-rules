@@ -6,7 +6,8 @@
                 "Described your design and fabrication process using words/images/screenshots.", 
                 "Explained the programming process/es you used and how the microcontroller datasheet helped you.", 
                 "Outlined problems and how you fixed them", 
-                "Included original design files and code"
+                "Included original design files and code", 
+                "Measured the power consumption of an output device"
             ], 
             "description": "Add an output device to a microcontroller board you've designed and program it to do something\n", 
             "name": "Output Devices", 
@@ -16,7 +17,7 @@
             ]
         }
     ], 
-    "version": 2017, 
+    "version": 2018, 
     "unit": "Output Devices", 
     "unit_id": "output_devices"
 }

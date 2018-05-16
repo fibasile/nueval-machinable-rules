@@ -1,6 +1,6 @@
 unit: Embedded Networking and Communications
 unit_id: embedded_networking_and_communications.md
-version: 2017
+version: 2018
 tasks:
 - name: Embedded Networking and Communications
   description: |
@@ -13,6 +13,7 @@ tasks:
   - Explained the programming process/es you used.
   - Outlined problems and how you fixed them
   - Included original design files and code
+  - Sent a message between two projects
 faq: |
   ### Can we use arduino/commercial boards for networking?
   > Answer:

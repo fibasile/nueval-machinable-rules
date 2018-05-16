@@ -1,12 +1,12 @@
 unit: Computer-Controlled Cutting
 unit_id: computer_controlled_cutting
-version: 2017
+version: 2018
 tasks:
 - name: Laser Cutting
   description: |
       * make lasercutter test part(s), varying slot dimensions using parametric functions, testing your laser kerf & cutting settings (group project)
-      * cut something on the vinylcutter
-      * design, make, and document a parametric press-fit construction kit, accounting for the lasercutter kerf, which can be assembled in multiple ways
+      * cut something on the vinylcutter (individual)
+      * design, make, and document a parametric press-fit construction kit, accounting for the lasercutter kerf, which can be assembled in multiple ways (individual)
   outcomes:
   - Demonstrate and describe parametric 2D modelling processes
   - Identify and explain processes involved in using the laser cutter.
@@ -35,10 +35,14 @@ tasks:
   - Shown how you made your vinyl project
   - Included your design files and photos of your finished project
 faq: |
-  ### Can I use the Inkscape clone tool for my pressfit kit?
-  > Answer:
-  1. No. The clone tool is not a real parametric software.
+    ### What does 'characterise' mean?
+    > Answer: 
+    1. describe/understand the nature and features (of your particular laser cutter)
+  
+    ### Can I use the Inkscape clone tool for my pressfit kit?
+    > Answer:
+    1. No. The clone tool is not a real parametric software.
 
-  ### Is it compulsory to design my own file in Vinyl cutting?
-  > Answer:
-  1. Yes. Or modify existing one, and acknowledge where you found it.
+    ### Is it compulsory to design my own file in Vinyl cutting?
+    > Answer:
+    1. Yes. Or modify existing one, and acknowledge where you found it.

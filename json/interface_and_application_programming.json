@@ -1,5 +1,5 @@
 {
-    "faq": "None yet", 
+    "faq": "None yet\n", 
     "tasks": [
         {
             "checklist": [
@@ -15,7 +15,7 @@
             ]
         }
     ], 
-    "version": 2017, 
+    "version": 2018, 
     "unit": "Interface and Application Programming", 
     "unit_id": "interface_and_application_programming"
 }

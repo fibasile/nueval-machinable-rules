@@ -1,0 +1,19 @@
+{
+    "faq": "no FAQ available yet", 
+    "tasks": [
+        {
+            "checklist": [
+                "described and made a sketch of your final project", 
+                "described what it will do and who will use it"
+            ], 
+            "description": "* Plan and sketch a potential semester project.\n", 
+            "name": "Principles and Practices", 
+            "outcomes": [
+                "Communicate an initial project proposal"
+            ]
+        }
+    ], 
+    "version": 2018, 
+    "unit": "Principles and Practices", 
+    "unit_id": "principles_and_practices"
+}

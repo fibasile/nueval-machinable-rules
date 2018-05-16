@@ -1,6 +1,6 @@
 unit: Electronics Design
 unit_id: 3d_scanning_and_printing
-version: 2017
+version: 2018
 tasks:
 - name: Electronics Design
   description: |
@@ -13,6 +13,7 @@ tasks:
   - Shown your process using words/images/screenshots  
   - Explained problems and how you fixed them, including how you worked with design rules for milling (DRC in EagleCad and KiCad)
   - Included original design files (Eagle, KiCad, Inkscape, .cad - whatever)
+  - Used the test equipment in your lab to observe the operation of a microcontroller circuit board
 
 faq: |
   ### Can I modify an existing design board?

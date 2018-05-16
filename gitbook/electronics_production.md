@@ -16,6 +16,7 @@
 * Shown how you made and programmed the board
 * Explained any problems and how you fixed them
 * Included a ‘hero shot’ of your board
+* Characterised the specifications of your PCB production process
 
 ## FAQ
 

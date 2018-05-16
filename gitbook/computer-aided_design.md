@@ -2,8 +2,8 @@
 
 ## Computer-Aided Design
 
-* Model (draw, render, animate, simulate, ...) a possible [final project](http://fab.cba.mit.edu/classes/863.14/people/), 
-  and post it on your class page with original 2D and 3D files.
+* Model (raster, vector, 2D, 3D, render, animate, simulate, ...) a possible [final project](http://fab.cba.mit.edu/classes/863.14/people/), 
+  and post it on your class page.
 > Don't rely on a printed document. Check the information for each assignment in this living document each week.
 
 ### Learning outcomes

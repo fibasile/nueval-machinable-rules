@@ -15,6 +15,7 @@ _optional: simulate its operation. Measure its operation_
 * Shown your process using words/images/screenshots
 * Explained problems and how you fixed them, including how you worked with design rules for milling (DRC in EagleCad and KiCad)
 * Included original design files (Eagle, KiCad, Inkscape, .cad - whatever)
+* Used the test equipment in your lab to observe the operation of a microcontroller circuit board
 
 ## FAQ
 

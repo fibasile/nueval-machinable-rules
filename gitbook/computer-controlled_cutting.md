@@ -3,8 +3,8 @@
 ## Laser Cutting
 
 * make lasercutter test part(s), varying slot dimensions using parametric functions, testing your laser kerf & cutting settings (group project)
-* cut something on the vinylcutter
-* design, make, and document a parametric press-fit construction kit, accounting for the lasercutter kerf, which can be assembled in multiple ways
+* cut something on the vinylcutter (individual)
+* design, make, and document a parametric press-fit construction kit, accounting for the lasercutter kerf, which can be assembled in multiple ways (individual)
 
 ### Learning outcomes
 
@@ -43,6 +43,10 @@ Ensure that you have used it in some way during this time and met the objectives
 * Included your design files and photos of your finished project
 
 ## FAQ
+
+### What does 'characterise' mean?
+> Answer: 
+1. describe/understand the nature and features (of your particular laser cutter)
 
 ### Can I use the Inkscape clone tool for my pressfit kit?
 > Answer:

@@ -1,6 +1,6 @@
 unit: 3D Scanning and Printing
 unit_id: 3d_scanning_and_printing
-version: 2017
+version: 2018
 tasks:
 - name: 3D Scanning and Printing
   description: |

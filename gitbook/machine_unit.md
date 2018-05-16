@@ -2,7 +2,8 @@
 
 ## Mechanical Design, Machine Design
 
-Make a [machine](http://mtm.cba.mit.edu/machines/science), including the end effector, build the passive parts and operate it manually.
+Design a machine (mechanism + actuation + automation), including the end effector, build the passive parts and operate it manually.
+Plan and make a machine.Document the group project and your individual contribution.
 
 ### Learning outcomes
 
@@ -17,10 +18,11 @@ Make a [machine](http://mtm.cba.mit.edu/machines/science), including the end eff
 * Shown how your team planned and executed the project (Group page)
 * Described problems and how the team solved them (Group page)
 * Listed future development opportunities for this project (Group page)
-* Included your design files, 1 min video (1920x1080 HTML5 MP4) + slide (1920x1080 PNG) (Group page)
+* Included your design files,
+* (optional) 1 min video (1920x1080 HTML5 MP4) + slide (1920x1080 PNG) (Group page)
 
 ## FAQ
 
-### Does we have to design new boards for this?
+### Do we have to design new boards for this?
 > Answers:
 1. No. You can use the gestalt or other existing commercial boards.

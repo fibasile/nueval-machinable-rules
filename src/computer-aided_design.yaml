@@ -1,11 +1,11 @@
 unit: Computer-Aided Design
 unit_id: 3d_scanning_and_printing
-version: 2017
+version: 2018
 tasks:
 - name: Computer-Aided Design
   description: |
-    * Model (draw, render, animate, simulate, ...) a possible [final project](http://fab.cba.mit.edu/classes/863.14/people/), 
-      and post it on your class page with original 2D and 3D files.
+    * Model (raster, vector, 2D, 3D, render, animate, simulate, ...) a possible [final project](http://fab.cba.mit.edu/classes/863.14/people/), 
+      and post it on your class page.
     > Don't rely on a printed document. Check the information for each assignment in this living document each week.
   outcomes:
   - Evaluate and select 2D and 3D software

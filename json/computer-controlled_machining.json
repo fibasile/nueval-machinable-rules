@@ -4,7 +4,7 @@
         {
             "checklist": [
                 "Explained how you made your files for machining (2D or 3D)", 
-                "Shown how you made something BIG (setting up the machine, using fixings, testing joints, adjusting feeds and speeds, depth of cut etc)", 
+                "Shown how you made something BIG (describing setting up the machine, using fixings, testing joints, adjusting feeds and speeds, depth of cut etc)", 
                 "Described problems and how you fixed them", 
                 "Included your design files and \u2018hero shot\u2019 photos of final object"
             ], 
@@ -15,7 +15,7 @@
             ]
         }
     ], 
-    "version": 2017, 
+    "version": 2018, 
     "unit": "Computer controlled machining", 
     "unit_id": "computer-controlled_machining"
 }

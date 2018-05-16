@@ -1,0 +1,14 @@
+unit: Principles and Practices
+unit_id: principles_and_practices
+version: 2018
+tasks:
+- name: Principles and Practices
+  description: |
+    * Plan and sketch a potential semester project.
+  outcomes:
+  - Communicate an initial project proposal
+  checklist:
+  - described and made a sketch of your final project
+  - described what it will do and who will use it
+faq: |
+  no FAQ available yet

@@ -1,6 +1,6 @@
 unit: Computer controlled machining
 unit_id: computer-controlled_machining
-version: 2017
+version: 2018
 tasks:
 - name: Computer controlled machining
   description: |
@@ -9,7 +9,7 @@ tasks:
   - Document the process of design and production to demonstrate correct workflows and identify areas for improvement if needed
   checklist:
   - Explained how you made your files for machining (2D or 3D)
-  - Shown how you made something BIG (setting up the machine, using fixings, testing joints, adjusting feeds and speeds, depth of cut etc)
+  - Shown how you made something BIG (describing setting up the machine, using fixings, testing joints, adjusting feeds and speeds, depth of cut etc)
   - Described problems and how you fixed them
   - Included your design files and ‘hero shot’ photos of final object
 faq: |

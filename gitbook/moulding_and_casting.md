@@ -15,6 +15,7 @@
 * Shown how you made your mould and cast the parts
 * Described problems and how you fixed them
 * Included your design files and ‘hero shot’ photos of the mould and the final object
+* Reviewed the safety data sheets for each of your molding and casting materials, then made and compared test casts with each of them
 
 ## FAQ
 

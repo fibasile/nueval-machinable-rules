@@ -5,7 +5,8 @@
             "checklist": [
                 "Shown your process using words/images/screenshots", 
                 "Explained problems and how you fixed them, including how you worked with design rules for milling (DRC in EagleCad and KiCad)", 
-                "Included original design files (Eagle, KiCad, Inkscape, .cad - whatever)"
+                "Included original design files (Eagle, KiCad, Inkscape, .cad - whatever)", 
+                "Used the test equipment in your lab to observe the operation of a microcontroller circuit board"
             ], 
             "description": "Redraw the echo hello-world board, add (at least) a button and LED (with current-limiting resistor), check the design rules, make it (_if you have time this week, test it_).\n_optional: simulate its operation. Measure its operation_\n", 
             "name": "Electronics Design", 
@@ -15,7 +16,7 @@
             ]
         }
     ], 
-    "version": 2017, 
+    "version": 2018, 
     "unit": "Electronics Design", 
     "unit_id": "3d_scanning_and_printing"
 }

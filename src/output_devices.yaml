@@ -1,6 +1,6 @@
 unit: Output Devices
 unit_id: output_devices
-version: 2017
+version: 2018
 tasks:
 - name: Output Devices
   description: |
@@ -13,5 +13,7 @@ tasks:
   - Explained the programming process/es you used and how the microcontroller datasheet helped you.
   - Outlined problems and how you fixed them
   - Included original design files and code
+  - Measured the power consumption of an output device
+
 faq: |
   None yet

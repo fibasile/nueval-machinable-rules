@@ -7,7 +7,8 @@
                 "What questions do you have? What would you like to learn more about?", 
                 "Programmed your board", 
                 "Described the programming process/es you used", 
-                "Included your code"
+                "Included your code", 
+                "Compared the performance and development workflows for other architectures"
             ], 
             "description": "* Read a microcontroller [data sheet](http://academy.cba.mit.edu/classes/embedded_programming/doc8183.pdf).\n* Program your [board](http://academy.cba.mit.edu/classes/electronics_design/index.html) to do something, with as many different programming languages and programming environments as possible.\n* Optionally, experiment with other architectures\n", 
             "name": "Embedded Programming", 
@@ -17,7 +18,7 @@
             ]
         }
     ], 
-    "version": 2017, 
+    "version": 2018, 
     "unit": "Embedded Programming", 
     "unit_id": "embedded_programming.md"
 }

@@ -1,6 +1,6 @@
 unit: Input Devices
 unit_id: input_devices
-version: 2017
+version: 2018
 tasks:
 - name: Input Devices
   description: |
@@ -14,6 +14,7 @@ tasks:
   - Explained the programming process/es you used and how the microcontroller datasheet helped you.
   - Explained problems and how you fixed them
   - Included original design files and code
+  - Measured the analog levels and digital signals in an input device
 faq: |
   ### Is the satsha kit/fabduino I fabricated considered a valid board for this assignment?
   > Answer:

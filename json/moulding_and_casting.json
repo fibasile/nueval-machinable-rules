@@ -6,7 +6,8 @@
                 "Explained how you made your files for machining", 
                 "Shown how you made your mould and cast the parts", 
                 "Described problems and how you fixed them", 
-                "Included your design files and \u2018hero shot\u2019 photos of the mould and the final object"
+                "Included your design files and \u2018hero shot\u2019 photos of the mould and the final object", 
+                "Reviewed the safety data sheets for each of your molding and casting materials, then made and compared test casts with each of them"
             ], 
             "description": "* Design a 3D mould, machine it, and cast parts from it.\n", 
             "name": "Moulding and Casting", 
@@ -16,7 +17,7 @@
             ]
         }
     ], 
-    "version": 2017, 
+    "version": 2018, 
     "unit": "Moulding and Casting", 
     "unit_id": "moulding_and_casting"
 }

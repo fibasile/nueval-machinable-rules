@@ -6,7 +6,8 @@
                 "Described your design and fabrication process using words/images/screenshots.", 
                 "Explained the programming process/es you used.", 
                 "Outlined problems and how you fixed them", 
-                "Included original design files and code"
+                "Included original design files and code", 
+                "Sent a message between two projects"
             ], 
             "description": "Design and build a wired &/or wireless network connecting at least two processors\n", 
             "name": "Embedded Networking and Communications", 
@@ -16,7 +17,7 @@
             ]
         }
     ], 
-    "version": 2017, 
+    "version": 2018, 
     "unit": "Embedded Networking and Communications", 
     "unit_id": "embedded_networking_and_communications.md"
 }
