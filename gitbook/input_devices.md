@@ -3,7 +3,8 @@
 ## Input Devices
 
 > The second half of the Fab Academy programme is designed to build on the previous weeks. You will be synthesising information and implementing skills that you were introduced to in the first half of the programme and encouraged to integrate these into your final project proposal.
-Measure something: add a sensor to a microcontroller board that you have designed and read it.
+* Measure the analog levels and digital signals in an input device (group project)
+* Measure something: add a sensor to a microcontroller board that you have designed and read it.
 
 ### Learning outcomes
 
@@ -16,7 +17,6 @@ Measure something: add a sensor to a microcontroller board that you have designe
 * Explained the programming process/es you used and how the microcontroller datasheet helped you.
 * Explained problems and how you fixed them
 * Included original design files and code
-* Measured the analog levels and digital signals in an input device
 
 ## FAQ
 

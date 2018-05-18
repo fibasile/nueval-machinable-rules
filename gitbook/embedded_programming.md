@@ -2,9 +2,9 @@
 
 ## Embedded Programming
 
+* Compare the performance and development workflows for other architectures (group project)
 * Read a microcontroller [data sheet](http://academy.cba.mit.edu/classes/embedded_programming/doc8183.pdf).
 * Program your [board](http://academy.cba.mit.edu/classes/electronics_design/index.html) to do something, with as many different programming languages and programming environments as possible.
-* Optionally, experiment with other architectures
 
 ### Learning outcomes
 
@@ -18,7 +18,6 @@
 * Programmed your board
 * Described the programming process/es you used
 * Included your code
-* Compared the performance and development workflows for other architectures
 
 ## FAQ
 

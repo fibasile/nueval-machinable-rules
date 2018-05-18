@@ -7,7 +7,7 @@
                 "Shown how you made your press-fit kit", 
                 "Included your design files and photos of your finished project"
             ], 
-            "description": "* make lasercutter test part(s), varying slot dimensions using parametric functions, testing your laser kerf & cutting settings (group project)\n* cut something on the vinylcutter (individual)\n* design, make, and document a parametric press-fit construction kit, accounting for the lasercutter kerf, which can be assembled in multiple ways (individual)\n", 
+            "description": "* characterise you lasercutter, making lasercutter test part(s) that vary cutting settings and dimensions. (group project)\n* cut something on the vinylcutter (individual)\n* design, make, and document a parametric press-fit construction kit, accounting for the lasercutter kerf, which can be assembled in multiple ways (individual)\n", 
             "name": "Laser Cutting", 
             "outcomes": [
                 "Demonstrate and describe parametric 2D modelling processes", 

@@ -2,7 +2,7 @@
 
 ## Laser Cutting
 
-* make lasercutter test part(s), varying slot dimensions using parametric functions, testing your laser kerf & cutting settings (group project)
+* characterise you lasercutter, making lasercutter test part(s) that vary cutting settings and dimensions. (group project)
 * cut something on the vinylcutter (individual)
 * design, make, and document a parametric press-fit construction kit, accounting for the lasercutter kerf, which can be assembled in multiple ways (individual)
 

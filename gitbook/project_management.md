@@ -2,7 +2,7 @@
 
 ## Project Management
 
-*  Build a personal site describing you and your final project.
+* Build a personal site describing you and your final project.
 * Upload it to the class archive. Work through a git tutorial.
 
 ### Learning outcomes

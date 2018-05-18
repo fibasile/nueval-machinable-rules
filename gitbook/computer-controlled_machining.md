@@ -2,7 +2,8 @@
 
 ## Computer controlled machining
 
-Make something [big](http://blog.ted.com/2008/07/15/digitally_fabbe/) (on a CNC machine).
+* Test runout, alignment, speeds, feeds and toolpaths for your machine (group project)
+* Make something [big](http://blog.ted.com/2008/07/15/digitally_fabbe/) (on a CNC machine).
 
 ### Learning outcomes
 

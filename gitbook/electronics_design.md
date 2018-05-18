@@ -2,7 +2,8 @@
 
 ## Electronics Design
 
-Redraw the echo hello-world board, add (at least) a button and LED (with current-limiting resistor), check the design rules, make it (_if you have time this week, test it_).
+* Use the test equipment in your lab to observe the operation of a microcontroller circuit board (group project)
+* Redraw the echo hello-world board, add (at least) a button and LED (with current-limiting resistor), check the design rules, make it (_if you have time this week, test it_).
 _optional: simulate its operation. Measure its operation_
 
 ### Learning outcomes
@@ -15,7 +16,6 @@ _optional: simulate its operation. Measure its operation_
 * Shown your process using words/images/screenshots
 * Explained problems and how you fixed them, including how you worked with design rules for milling (DRC in EagleCad and KiCad)
 * Included original design files (Eagle, KiCad, Inkscape, .cad - whatever)
-* Used the test equipment in your lab to observe the operation of a microcontroller circuit board
 
 ## FAQ
 

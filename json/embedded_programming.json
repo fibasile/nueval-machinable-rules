@@ -7,10 +7,9 @@
                 "What questions do you have? What would you like to learn more about?", 
                 "Programmed your board", 
                 "Described the programming process/es you used", 
-                "Included your code", 
-                "Compared the performance and development workflows for other architectures"
+                "Included your code"
             ], 
-            "description": "* Read a microcontroller [data sheet](http://academy.cba.mit.edu/classes/embedded_programming/doc8183.pdf).\n* Program your [board](http://academy.cba.mit.edu/classes/electronics_design/index.html) to do something, with as many different programming languages and programming environments as possible.\n* Optionally, experiment with other architectures\n", 
+            "description": "* Compare the performance and development workflows for other architectures (group project)\n* Read a microcontroller [data sheet](http://academy.cba.mit.edu/classes/embedded_programming/doc8183.pdf).\n* Program your [board](http://academy.cba.mit.edu/classes/electronics_design/index.html) to do something, with as many different programming languages and programming environments as possible.\n", 
             "name": "Embedded Programming", 
             "outcomes": [
                 "Identify relevant information in a microcontroller data sheet.", 

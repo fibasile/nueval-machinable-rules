@@ -8,7 +8,7 @@
                 "Described problems and how you fixed them", 
                 "Included your design files and \u2018hero shot\u2019 photos of final object"
             ], 
-            "description": "Make something [big](http://blog.ted.com/2008/07/15/digitally_fabbe/) (on a CNC machine).\n", 
+            "description": "* Test runout, alignment, speeds, feeds and toolpaths for your machine (group project)\n* Make something [big](http://blog.ted.com/2008/07/15/digitally_fabbe/) (on a CNC machine).\n", 
             "name": "Computer controlled machining", 
             "outcomes": [
                 "Document the process of design and production to demonstrate correct workflows and identify areas for improvement if needed"

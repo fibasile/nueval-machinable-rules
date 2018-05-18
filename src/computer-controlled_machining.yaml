@@ -4,7 +4,8 @@ version: 2018
 tasks:
 - name: Computer controlled machining
   description: |
-    Make something [big](http://blog.ted.com/2008/07/15/digitally_fabbe/) (on a CNC machine).
+    * Test runout, alignment, speeds, feeds and toolpaths for your machine (group project)
+    * Make something [big](http://blog.ted.com/2008/07/15/digitally_fabbe/) (on a CNC machine).
   outcomes:
   - Document the process of design and production to demonstrate correct workflows and identify areas for improvement if needed
   checklist:

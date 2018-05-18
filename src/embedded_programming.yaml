@@ -4,9 +4,9 @@ version: 2018
 tasks:
 - name: Embedded Programming
   description: |
+    * Compare the performance and development workflows for other architectures (group project)
     * Read a microcontroller [data sheet](http://academy.cba.mit.edu/classes/embedded_programming/doc8183.pdf).
     * Program your [board](http://academy.cba.mit.edu/classes/electronics_design/index.html) to do something, with as many different programming languages and programming environments as possible.
-    * Optionally, experiment with other architectures
   outcomes:
   - Identify relevant information in a microcontroller data sheet.
   - Implement programming protocols.
@@ -16,8 +16,6 @@ tasks:
   - Programmed your board
   - Described the programming process/es you used
   - Included your code
-  - Compared the performance and development workflows for other architectures
-
 faq: |
   ### If I adjust existing code, is that now my code?
   > Answer:

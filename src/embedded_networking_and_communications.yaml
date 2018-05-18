@@ -4,7 +4,8 @@ version: 2018
 tasks:
 - name: Embedded Networking and Communications
   description: |
-    Design and build a wired &/or wireless network connecting at least two processors
+    * Send a message between two projects (group project)
+    * Design and build a wired &/or wireless network connecting at least two processors
   outcomes:
   - Demonstrate workflows used in network design and construction
   - Implement and interpret networking protocols
@@ -13,7 +14,6 @@ tasks:
   - Explained the programming process/es you used.
   - Outlined problems and how you fixed them
   - Included original design files and code
-  - Sent a message between two projects
 faq: |
   ### Can we use arduino/commercial boards for networking?
   > Answer:

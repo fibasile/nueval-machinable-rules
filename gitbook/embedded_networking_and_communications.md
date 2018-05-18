@@ -2,7 +2,8 @@
 
 ## Embedded Networking and Communications
 
-Design and build a wired &/or wireless network connecting at least two processors
+* Send a message between two projects (group project)
+* Design and build a wired &/or wireless network connecting at least two processors
 
 ### Learning outcomes
 
@@ -15,7 +16,6 @@ Design and build a wired &/or wireless network connecting at least two processor
 * Explained the programming process/es you used.
 * Outlined problems and how you fixed them
 * Included original design files and code
-* Sent a message between two projects
 
 ## FAQ
 

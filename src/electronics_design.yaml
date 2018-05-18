@@ -4,7 +4,8 @@ version: 2018
 tasks:
 - name: Electronics Design
   description: |
-    Redraw the echo hello-world board, add (at least) a button and LED (with current-limiting resistor), check the design rules, make it (_if you have time this week, test it_).
+    * Use the test equipment in your lab to observe the operation of a microcontroller circuit board (group project)
+    * Redraw the echo hello-world board, add (at least) a button and LED (with current-limiting resistor), check the design rules, make it (_if you have time this week, test it_).
     _optional: simulate its operation. Measure its operation_
   outcomes:
   - Select and use software for circuit board design
@@ -13,8 +14,6 @@ tasks:
   - Shown your process using words/images/screenshots  
   - Explained problems and how you fixed them, including how you worked with design rules for milling (DRC in EagleCad and KiCad)
   - Included original design files (Eagle, KiCad, Inkscape, .cad - whatever)
-  - Used the test equipment in your lab to observe the operation of a microcontroller circuit board
-
 faq: |
   ### Can I modify an existing design board?
   > Answer:
