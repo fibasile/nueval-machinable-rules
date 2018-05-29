@@ -22,3 +22,6 @@
 ### Does the FabISP need to work to complete the assignment?
 > Answer:
 1. Yes, by the end of Embedded Programming week because you will program your board from Electronics Design week with it. It is highly recommended that you attempt it this week and explain ALL the debugging that you did to try to find out problems.
+### 
+> Answer:
+1. There are no requirements for what you use for CAD and CAM, and certainly not to use mods.Having said that, the mods algorithms are more efficient than the older fab modules, so something's wrong if they're taking more time for you. And mods is easier to configure, and shows the internals of the algorithms, so Neil recommends getting set up to use them.
