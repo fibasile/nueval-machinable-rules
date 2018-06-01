@@ -13,7 +13,7 @@ Congratulations, you have reached the point of working on your Final Project. Th
 
 ### Have you?
 
-* made your slide 1280 x 1024 pixels with your name, project name, Fab Lab name, a photo/render/sketch of your project, a brief description of what your project is/does
+* made your slide 1920 x 1080 pixels with your name, project name, Fab Lab name, a photo/render/sketch of your project, a brief description of what your project is/does
 * made a ~1 minute (10MB/1080p/720p) video of you explaining your project
 * made a separate Final Project page that briefly summarises your project and
 * included the BOM (Bill of Materials) for your project
