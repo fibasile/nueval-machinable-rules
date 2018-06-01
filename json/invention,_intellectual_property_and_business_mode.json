@@ -3,13 +3,11 @@
     "tasks": [
         {
             "checklist": [
-                "Summarised two kinds of licences and explained why you chose one.", 
                 "Imagined and outlined possibilities and described how to make them probabilities"
             ], 
-            "description": "Create and document a license for your final project. Develop a plan for dissemination of your [final project](http://academy.cba.mit.edu/classes/applications_implications/index.html).\nPrepare a summary slide (presentation.png, 1280x1024) and video clip (presentation.mp4, 1080p HTML5, < ~minute, < ~10 MB)\nin your root directory\n", 
+            "description": "Develop a plan for dissemination of your [final project](http://academy.cba.mit.edu/classes/applications_implications/index.html).\nPrepare drafts of your summary slide (presentation.png, 1280x1024) and video clip (presentation.mp4, 1080p HTML5, < ~minute, < ~10 MB)\nand put them in your root directory\n", 
             "name": "Invention, Intellectual Property and Business Models", 
             "outcomes": [
-                "Recognise the range of licenses available", 
                 "Formulate future opportunities"
             ]
         }
