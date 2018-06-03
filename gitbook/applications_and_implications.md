@@ -2,8 +2,8 @@
 
 ## Applications and implications
 
-Propose a final project that integrates the range of units covered.  
-> Think of your project plan as an ‘installation and implementation guide’ for the future. How will others be able to make your project by reading your documentation?
+Propose a final project masterpiece that integrates the range of units covered, answering the questions below.
+> See the Final Project Requirements page for a complete list of requirements you must fulfil.  
 
 ### Learning outcomes
 
@@ -20,11 +20,13 @@ Propose a final project that integrates the range of units covered.
 * what parts and systems will be made?
 * what processes will be used?
 * what tasks need to be completed?
-* what questions need to be answered?
 * what is the schedule?
 * how will it be evaluated?
+* what other questions need to be asked and answered?
 
 ## FAQ
 
-No FAQ available yet
+### Do I have to answer these questions and why?
+> Answer:
+1. These are questions to help you *plan your final project*. Answer these and any other questions you think will help you do this. 
 
