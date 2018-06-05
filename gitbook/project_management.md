@@ -25,7 +25,7 @@
 
 ### Can I store photos and files off the archive?
 > Answer:
-1. No. Photos should be resized and compressed and stored in the archive. See the General Essentials section of the Assessment Doc.
+1. No. Photos should be resized and compressed and stored in the archive. See the [General Essentials](http://fabacademy.org/2018/docs/FabAcademy-Assessment/general_essentials.html) section of the Assessment Doc.
 2. The Global Evaluation team should be able to pull and then assess your work offline.
 
 ### What size should my website be?

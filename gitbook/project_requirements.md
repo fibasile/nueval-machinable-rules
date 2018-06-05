@@ -27,13 +27,13 @@ Congratulations, you have reached the point of working on your Final Project. Th
 
 ### Can I just design a shield for a commercial board in my final project?
 > Answer:
-1. No. Please check the learning outcomes above. See [Commercial Boards Policy](http://docs.academany.org/FabAcademy-Assessment/_book/commercial_board_policy.html).
+1. No. Please check the learning outcomes above. See [Commercial Boards Policy](http://fabacademy.org/2018/docs/FabAcademy-Assessment/commercial_board_policy.html).
 
 ### Can I use the satshakit/fabduino/raspberry pi for my final project?
 > Answer:
 1. You have to design your own board(s).
 2. You can use it to program your own input/output devices. Fabricating an unmodified board is considered as electronics production but does not count towards any design skill.
-3. You can only use a Raspberry Pi instead of a laptop. See [Commercial Boards Policy](http://docs.academany.org/FabAcademy-Assessment/_book/commercial_board_policy.html).
+3. You can only use a Raspberry Pi instead of a laptop. See [Commercial Boards Policy](http://fabacademy.org/2018/docs/FabAcademy-Assessment/commercial_board_policy.html).
 
 ### My final projects electronics is a tangle of wires but it works. So I guess this is it.
 > Answer:
@@ -47,5 +47,5 @@ Congratulations, you have reached the point of working on your Final Project. Th
 ### What does 'original design files' mean?
 > Answer:
 1. That you designed or modified them significantly. They are ones that you made or evolved to change the way they work. If you evolved them into something new, acknowledge where they came from and, point out what you did *to improve them*. Pay attention to the original license that is used, and do not breach it. This may affect the licence you can choose for your final project. Read it all, but pay particular attention to #3, #23, #29, #35 & #37 in [Bruce Mau's Incomplete Manifesto](http://www.manifestoproject.it/bruce-mau/). 
-This is slightly different than files in the 'orginal editable format', check [General Essentials](http://docs.academany.org/FabAcademy-Assessment/_book/general_essentials.html).  
+This is slightly different than files in the 'orginal editable format', check [General Essentials](http://fabacademy.org/2018/docs/FabAcademy-Assessment/general_essentials.html).  
 

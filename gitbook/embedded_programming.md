@@ -23,7 +23,7 @@
 
 ### If I adjust existing code, is that now my code?
 > Answer:
-1. You must acknowledge whoever made it. See [General Essentials](general_essentials.md).
+1. You must acknowledge whoever made it. See [General Essentials](http://fabacademy.org/2018/docs/FabAcademy-Assessment/general_essentials.html).
 2. To succeed in this project, experiment with changing the code, understand how that worked, and write your own.
 
 ### How do I prove I've read the Data Sheet?
